@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mambojam. I'm a beginner programmer looking to transition into a career in software / data / business change
-- 👀 I’m interested in Business Analysis, Software Development, Crypto, ML
-- 🌱 I’m currently learning Python and SQL 
-- 💞️ I’m looking to collaborate on anything that needs some basic python programming, SQL querying or a Business Analyst
+- 👋 Hi, I’m @mambojam. I'm a MSc Computing Student at Cardiff University
+- 👀 I’m interested in building Web Apps, ML, Blockchain, anything with environmental or societal impact
+- 🌱 I’m currently learning Python and Javascript
 - 📫 How to reach me - message me on here if you can!
 
 <!---
